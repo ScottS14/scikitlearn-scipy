@@ -1,1 +1,0 @@
-This repo will be used as a refresh of machine learning models without deep learning.
